@@ -9,8 +9,10 @@ A small library providing a boolean search result for two words occuring within 
 
 ## Usage
 
-  var search = require('proximity-search');
-  console.log(search('A string with some words where we want to know the distance between certain keywords.', 'string', 'words'));
+  ```
+    var search = require('proximity-search'); 
+    console.log(search('A string with some words where we want to know the distance between certain keywords.', 'string', 'words'));
+  ```
 
 ## Tests
 
