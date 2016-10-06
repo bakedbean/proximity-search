@@ -1,0 +1,27 @@
+{
+  "name": "proximity-search",
+  "version": "1.0.0",
+  "description": "Simple text proximity search utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/*@(.js)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakedbean/proximity-search.git"
+  },
+  "keywords": [
+    "proximity",
+    "search"
+  ],
+  "author": "Eben Goodman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakedbean/proximity-search/issues"
+  },
+  "homepage": "https://github.com/bakedbean/proximity-search#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
+}
